@@ -1,0 +1,110 @@
+body{
+    width: 80%;
+    margin: 0px auto;
+    background-color: gray;
+    margin-top: -2%;
+    margin-left: 30%;
+}
+h1{
+    text-align: center;
+    padding: 20px;
+    color: white;
+}
+#header p{
+    text-align: right;
+    color: white;
+}
+.img-deg{
+    float: left;
+    width: 35%;
+}
+
+#header{
+    height: 200px;
+    width: 70%;
+    background-color: black;
+    float: center;
+    margin: 5px 35px;
+}
+#banner{
+    height: 200px;
+    width: 100%;
+    background-color: white;
+    float: left;
+    margin: 0px 0px;
+    overflow: hidden;
+}
+.images{
+    height: 150px;
+    width: 32%;
+    float: right;
+    margin-top: 20px;
+    margin-right: 20px;
+}
+h2{
+    margin: 20px 20px;
+}
+h6{
+    color: black;
+    font-family: sans-serif;
+}
+#container{
+    height: 200px;
+    width: 100%;
+    background-color: black;
+    float: left;
+    margin: 0px 0px;
+    overflow: hidden;
+}
+.box1{
+    height: 200px;
+    width: 50%;
+    background-color: aqua;
+    float: right;
+    overflow: hidden;
+    margin: 0px 0px;
+}
+h3{
+    text-align: left;
+    color: white;
+    margin: 25px 20px;
+}
+h5{
+    color: white;
+    margin: 25px 20px;
+}
+.image{
+    width: 20%;
+    height: 70px;
+    float: left;
+    margin-top: 10px;
+    margin-left: 25px;
+}
+.image1{
+    width: 20%;
+    height: 70px;
+    margin-top: 10px;
+    margin-left: 25px;
+}
+.image2{
+    float: left;
+}
+.image3{
+    float: right;
+}
+#menubar{
+    height: 70px;
+    width: 100%;
+    background-color: skyblue;
+    overflow: hidden;
+}
+ul{
+    list-style-type: none;
+}
+ul li{
+    text-align: center;
+    border: 1px solid black;
+    border-width: 5px;
+    font-style: italic;
+}
+
